@@ -47,7 +47,8 @@ public class Main extends Activity {
         description.setMovementMethod(LinkMovementMethod.getInstance());
         description.setText(content, BufferType.SPANNABLE);
 
-
+        Toast.makeText(this,"TestingMain ", Toast.LENGTH_SHORT).show();
+        
         final Button setup1 = (Button) findViewById(R.id.main_setup_btn_configure_imes);
         setup1.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {

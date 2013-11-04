@@ -27,6 +27,7 @@ import android.text.AutoText;
 import android.text.TextUtils;
 import android.util.Log;
 import android.view.View;
+import android.widget.Toast;
 
 /**
  * This class loads a dictionary and provides a list of suggestions for a given sequence of 
@@ -353,6 +354,9 @@ public class Suggest implements Dictionary.WordCallback {
             }
         }
         removeDupes();
+        
+        System.out.print(mSuggestions);
+        //Toast.makeText(this,mSuggestions, Toast.LENGTH_SHORT).show();
         return mSuggestions;
     }
 

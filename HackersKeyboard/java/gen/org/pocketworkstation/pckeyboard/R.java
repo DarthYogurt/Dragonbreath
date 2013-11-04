@@ -1804,7 +1804,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name org.pocketworkstation.pckeyboard:horizontalGap
+          @attr name android:horizontalGap
         */
         public static final int Keyboard_horizontalGap = 2;
         /**
@@ -1825,7 +1825,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name org.pocketworkstation.pckeyboard:horizontalPad
+          @attr name android:horizontalPad
         */
         public static final int Keyboard_horizontalPad = 4;
         /**
@@ -1846,7 +1846,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name org.pocketworkstation.pckeyboard:keyHeight
+          @attr name android:keyHeight
         */
         public static final int Keyboard_keyHeight = 1;
         /**
@@ -1867,7 +1867,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name org.pocketworkstation.pckeyboard:keyWidth
+          @attr name android:keyWidth
         */
         public static final int Keyboard_keyWidth = 0;
         /**
@@ -1881,7 +1881,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.pocketworkstation.pckeyboard:layoutColumns
+          @attr name android:layoutColumns
         */
         public static final int Keyboard_layoutColumns = 7;
         /**
@@ -1897,7 +1897,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name org.pocketworkstation.pckeyboard:layoutRows
+          @attr name android:layoutRows
         */
         public static final int Keyboard_layoutRows = 6;
         /**
@@ -1918,7 +1918,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name org.pocketworkstation.pckeyboard:verticalGap
+          @attr name android:verticalGap
         */
         public static final int Keyboard_verticalGap = 3;
         /**
@@ -1939,7 +1939,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name org.pocketworkstation.pckeyboard:verticalPad
+          @attr name android:verticalPad
         */
         public static final int Keyboard_verticalPad = 5;
         /** Attributes that can be used with a Keyboard_Key.
@@ -1999,7 +1999,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name org.pocketworkstation.pckeyboard:capsLabel
+          @attr name android:capsLabel
         */
         public static final int Keyboard_Key_capsLabel = 13;
         /**
@@ -2016,7 +2016,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name org.pocketworkstation.pckeyboard:codes
+          @attr name android:codes
         */
         public static final int Keyboard_Key_codes = 1;
         /**
@@ -2028,7 +2028,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name org.pocketworkstation.pckeyboard:iconPreview
+          @attr name android:iconPreview
         */
         public static final int Keyboard_Key_iconPreview = 9;
         /**
@@ -2044,7 +2044,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name org.pocketworkstation.pckeyboard:isCursor
+          @attr name android:isCursor
         */
         public static final int Keyboard_Key_isCursor = 7;
         /**
@@ -2060,7 +2060,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name org.pocketworkstation.pckeyboard:isModifier
+          @attr name android:isModifier
         */
         public static final int Keyboard_Key_isModifier = 5;
         /**
@@ -2076,7 +2076,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name org.pocketworkstation.pckeyboard:isRepeatable
+          @attr name android:isRepeatable
         */
         public static final int Keyboard_Key_isRepeatable = 8;
         /**
@@ -2092,7 +2092,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name org.pocketworkstation.pckeyboard:isSticky
+          @attr name android:isSticky
         */
         public static final int Keyboard_Key_isSticky = 6;
         /**
@@ -2111,7 +2111,7 @@ containing a value of this type.
 <tr><td><code>right</code></td><td>2</td><td> Key is anchored to the right of the keyboard. </td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name org.pocketworkstation.pckeyboard:keyEdgeFlags
+          @attr name android:keyEdgeFlags
         */
         public static final int Keyboard_Key_keyEdgeFlags = 4;
         /**
@@ -2123,7 +2123,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name org.pocketworkstation.pckeyboard:keyIcon
+          @attr name android:keyIcon
         */
         public static final int Keyboard_Key_keyIcon = 14;
         /**
@@ -2139,7 +2139,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name org.pocketworkstation.pckeyboard:keyLabel
+          @attr name android:keyLabel
         */
         public static final int Keyboard_Key_keyLabel = 11;
         /**
@@ -2155,7 +2155,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name org.pocketworkstation.pckeyboard:keyOutputText
+          @attr name android:keyOutputText
         */
         public static final int Keyboard_Key_keyOutputText = 10;
         /**
@@ -2168,7 +2168,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name org.pocketworkstation.pckeyboard:keyboardMode
+          @attr name android:keyboardMode
         */
         public static final int Keyboard_Key_keyboardMode = 0;
         /**
@@ -2184,7 +2184,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name org.pocketworkstation.pckeyboard:popupCharacters
+          @attr name android:popupCharacters
         */
         public static final int Keyboard_Key_popupCharacters = 3;
         /**
@@ -2196,7 +2196,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name org.pocketworkstation.pckeyboard:popupKeyboard
+          @attr name android:popupKeyboard
         */
         public static final int Keyboard_Key_popupKeyboard = 2;
         /**
@@ -2212,7 +2212,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name org.pocketworkstation.pckeyboard:shiftLabel
+          @attr name android:shiftLabel
         */
         public static final int Keyboard_Key_shiftLabel = 12;
         /** Attributes that can be used with a Keyboard_Row.
@@ -2243,7 +2243,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.pocketworkstation.pckeyboard:extension
+          @attr name android:extension
         */
         public static final int Keyboard_Row_extension = 2;
         /**
@@ -2256,7 +2256,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name org.pocketworkstation.pckeyboard:keyboardMode
+          @attr name android:keyboardMode
         */
         public static final int Keyboard_Row_keyboardMode = 1;
         /**
@@ -2275,7 +2275,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>bottom</code></td><td>8</td><td> Row is anchored to the bottom of the keyboard. </td></tr>
 </table>
           <p>This is a private symbol.
-          @attr name org.pocketworkstation.pckeyboard:rowEdgeFlags
+          @attr name android:rowEdgeFlags
         */
         public static final int Keyboard_Row_rowEdgeFlags = 0;
         /** Attributes that can be used with a LatinKeyboardBaseView.
@@ -2346,7 +2346,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name org.pocketworkstation.pckeyboard:backgroundAlpha
+          @attr name android:backgroundAlpha
         */
         public static final int LatinKeyboardBaseView_backgroundAlpha = 8;
         /**
@@ -2360,7 +2360,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.pocketworkstation.pckeyboard:backgroundDimAmount
+          @attr name android:backgroundDimAmount
         */
         public static final int LatinKeyboardBaseView_backgroundDimAmount = 17;
         /**
@@ -2374,7 +2374,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name org.pocketworkstation.pckeyboard:keyBackground
+          @attr name android:keyBackground
         */
         public static final int LatinKeyboardBaseView_keyBackground = 1;
         /**
@@ -2391,7 +2391,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name org.pocketworkstation.pckeyboard:keyCursorColor
+          @attr name android:keyCursorColor
         */
         public static final int LatinKeyboardBaseView_keyCursorColor = 6;
         /**
@@ -2408,7 +2408,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name org.pocketworkstation.pckeyboard:keyHintColor
+          @attr name android:keyHintColor
         */
         public static final int LatinKeyboardBaseView_keyHintColor = 5;
         /**
@@ -2426,7 +2426,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name org.pocketworkstation.pckeyboard:keyHysteresisDistance
+          @attr name android:keyHysteresisDistance
         */
         public static final int LatinKeyboardBaseView_keyHysteresisDistance = 12;
         /**
@@ -2444,7 +2444,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name org.pocketworkstation.pckeyboard:keyPreviewHeight
+          @attr name android:keyPreviewHeight
         */
         public static final int LatinKeyboardBaseView_keyPreviewHeight = 11;
         /**
@@ -2456,7 +2456,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name org.pocketworkstation.pckeyboard:keyPreviewLayout
+          @attr name android:keyPreviewLayout
         */
         public static final int LatinKeyboardBaseView_keyPreviewLayout = 9;
         /**
@@ -2474,7 +2474,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name org.pocketworkstation.pckeyboard:keyPreviewOffset
+          @attr name android:keyPreviewOffset
         */
         public static final int LatinKeyboardBaseView_keyPreviewOffset = 10;
         /**
@@ -2491,7 +2491,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name org.pocketworkstation.pckeyboard:keyTextColor
+          @attr name android:keyTextColor
         */
         public static final int LatinKeyboardBaseView_keyTextColor = 4;
         /**
@@ -2509,7 +2509,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name org.pocketworkstation.pckeyboard:keyTextSize
+          @attr name android:keyTextSize
         */
         public static final int LatinKeyboardBaseView_keyTextSize = 2;
         /**
@@ -2527,7 +2527,7 @@ containing a value of this type.
 <tr><td><code>bold</code></td><td>1</td><td></td></tr>
 <tr><td><code>italic</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name org.pocketworkstation.pckeyboard:keyTextStyle
+          @attr name android:keyTextStyle
         */
         public static final int LatinKeyboardBaseView_keyTextStyle = 18;
         /**
@@ -2539,7 +2539,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name org.pocketworkstation.pckeyboard:keyboardViewStyle
+          @attr name android:keyboardViewStyle
         */
         public static final int LatinKeyboardBaseView_keyboardViewStyle = 0;
         /**
@@ -2557,7 +2557,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name org.pocketworkstation.pckeyboard:labelTextSize
+          @attr name android:labelTextSize
         */
         public static final int LatinKeyboardBaseView_labelTextSize = 3;
         /**
@@ -2569,7 +2569,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name org.pocketworkstation.pckeyboard:popupLayout
+          @attr name android:popupLayout
         */
         public static final int LatinKeyboardBaseView_popupLayout = 14;
         /**
@@ -2585,7 +2585,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name org.pocketworkstation.pckeyboard:recolorSymbols
+          @attr name android:recolorSymbols
         */
         public static final int LatinKeyboardBaseView_recolorSymbols = 7;
         /**
@@ -2600,7 +2600,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.pocketworkstation.pckeyboard:shadowColor
+          @attr name android:shadowColor
         */
         public static final int LatinKeyboardBaseView_shadowColor = 15;
         /**
@@ -2614,7 +2614,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.pocketworkstation.pckeyboard:shadowRadius
+          @attr name android:shadowRadius
         */
         public static final int LatinKeyboardBaseView_shadowRadius = 16;
         /**
@@ -2631,7 +2631,7 @@ containing a value of this type.
 <tr><td><code>white</code></td><td>0</td><td></td></tr>
 <tr><td><code>black</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name org.pocketworkstation.pckeyboard:symbolColorScheme
+          @attr name android:symbolColorScheme
         */
         public static final int LatinKeyboardBaseView_symbolColorScheme = 19;
         /**
@@ -2649,7 +2649,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name org.pocketworkstation.pckeyboard:verticalCorrection
+          @attr name android:verticalCorrection
         */
         public static final int LatinKeyboardBaseView_verticalCorrection = 13;
         /** Attributes that can be used with a SeekBarPreference.
@@ -2687,7 +2687,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.pocketworkstation.pckeyboard:asPercent
+          @attr name android:asPercent
         */
         public static final int SeekBarPreference_asPercent = 2;
         /**
@@ -2701,7 +2701,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.pocketworkstation.pckeyboard:displayFormat
+          @attr name android:displayFormat
         */
         public static final int SeekBarPreference_displayFormat = 5;
         /**
@@ -2715,7 +2715,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.pocketworkstation.pckeyboard:logScale
+          @attr name android:logScale
         */
         public static final int SeekBarPreference_logScale = 4;
         /**
@@ -2729,7 +2729,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.pocketworkstation.pckeyboard:maxValue
+          @attr name android:maxValue
         */
         public static final int SeekBarPreference_maxValue = 1;
         /**
@@ -2743,7 +2743,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.pocketworkstation.pckeyboard:minValue
+          @attr name android:minValue
         */
         public static final int SeekBarPreference_minValue = 0;
         /**
@@ -2757,7 +2757,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.pocketworkstation.pckeyboard:step
+          @attr name android:step
         */
         public static final int SeekBarPreference_step = 3;
     };
