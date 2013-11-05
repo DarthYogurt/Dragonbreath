@@ -239,6 +239,10 @@ public class Suggest implements Dictionary.WordCallback {
         Arrays.fill(mPriorities, 0);
         Arrays.fill(mNextLettersFrequencies, 0);
 
+        /* TOAST ******************/
+        
+       
+        
         // Save a lowercase version of the original word
         mOriginalWord = wordComposer.getTypedWord();
         if (mOriginalWord != null) {
